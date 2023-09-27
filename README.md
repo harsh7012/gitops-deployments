@@ -1,0 +1,2 @@
+# GitOps-challenge
+Assignment task
